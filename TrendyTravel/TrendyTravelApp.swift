@@ -16,8 +16,6 @@ struct TrendyTravelApp: App {
     @StateObject var postVm = PostViewModel()
     var body: some Scene {
         WindowGroup {
-//            SignUpView()
-//            DestinationsListView(searchDestinations: destinationsVm.destinations)
             RouterView()
                 .environmentObject(userVm)
                 .environmentObject(destinationsVm)

@@ -285,8 +285,8 @@
 			isa = PBXGroup;
 			children = (
 				755963132A700688008EB319 /* RouterView.swift */,
-				7515E4732A6D4B2C00567975 /* Registration */,
 				7539DE4F2A49948D0015FA4F /* DestinationsListView.swift */,
+				7515E4732A6D4B2C00567975 /* Registration */,
 				7515E46E2A6A9DAD00567975 /* Profile  */,
 				7515E46F2A6A9DEB00567975 /* Reviews */,
 				7515E4722A6A9E5400567975 /* Destinations */,
